@@ -6,7 +6,7 @@ Biar pengguna nggak bingung saat berpindah bagian, website ini dilengkapi naviga
 Setiap bagian punya id sendiri, jadi saat link diklik, halaman langsung scroll ke bagian yang dituju. 
 Beberapa konten seperti keahlian dan hobi juga dibuat bisa dibuka-tutup pakai details dan summary, biar kelihatan lebih interaktif meskipun tanpa JavaScript.
 
-Untuk menampilkan data dan media,website ini menggunakan berbagai elemen HTML seperti tabel (<table>, <tr>, <th>, <td>) untuk menyajikan riwayat pendidikan, list (<ul>, <ol>, <li>)
+Untuk menampilkan data dan media,website ini menggunakan berbagai elemen HTML seperti tabel <table>, <tr>, <th>, <td> untuk menyajikan riwayat pendidikan, list <ul>, <ol>, <li>
 untuk keahlian, hobi, fun facts, dan game favorit, serta gambar profil dengan tag <img>.
 Selain itu, musik favorit ditampilkan melalui video YouTube yang di-embed menggunakan tag <iframe>, sehingga konten multimedia dapat ditampilkan langsung di dalam halaman web.
 
